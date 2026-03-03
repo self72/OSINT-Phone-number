@@ -2,7 +2,7 @@
 
 ## 🥇 Step-by-Step Installation in Kali Linux
 
-### 1️⃣ Update Kali
+### 1️ Update Kali
 
 ```bash
 sudo apt update 
@@ -11,7 +11,7 @@ sudo apt update
 
 
 
-### 3️⃣ Clone the GitHub Repository
+### 2 Clone the GitHub Repository
 
 
 
@@ -21,7 +21,7 @@ git clone https://github.com/sself72/OSINT-Phone-number.git
 
 ---
 
-### 4️⃣ Go Inside the Tool Directory
+### 3 Go Inside the Tool Directory
 
 ```bash
 cd OSINT-Phone-number
@@ -29,7 +29,7 @@ cd OSINT-Phone-number
 
 ---
 
-### 5️⃣ Create Virtual Environment
+### 4 Create Virtual Environment
 
 ```bash
 python3 -m venv venv
@@ -37,7 +37,7 @@ python3 -m venv venv
 
 ---
 
-### 6️⃣ Activate Virtual Environment
+### 5 Activate Virtual Environment
 
 ```bash
 source venv/bin/activate
@@ -47,7 +47,7 @@ source venv/bin/activate
 
 
 
-### 7️⃣ Install Dependencies
+### 6 Install Dependencies
 
 
 
