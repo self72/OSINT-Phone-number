@@ -59,7 +59,7 @@ pip install phonenumbers
 
 
 ```bash
-python3 main.py -n +91......
+python main.py -n +91......
 ```
 
 
